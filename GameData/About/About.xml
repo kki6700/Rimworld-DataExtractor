@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+  <name>RimWorld AI Assistant</name>
+  <author>오레 오즈</author>
+  <packageId>oreose.Asistant</packageId>
+  <url>https://your-website.com</url>
+  <supportedVersions>
+    <li>1.4</li>
+    
+  </supportedVersions>
+  <description>
+    구글 도우미 데이터 셋 입니다. 
+  </description>
+</ModMetaData>
